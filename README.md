@@ -1,0 +1,1 @@
+Just a small Kaggle Excel file that I cleaned up and poked around for fun. Nothing crazy here—just me practicing data cleaning and simple exploratory analysis, trying to make the data a little less messy and a little more interesting.
